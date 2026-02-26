@@ -11,7 +11,7 @@ Founding AI Engineer at [Embrace.ai](https://embrace.ai/) — sole owner of the 
 
 ## Background
 
-Previously: ML research at UC Berkeley's RISELab (3 papers — ICLR '21, ICML '22, ICLR '22), Senior ML Engineer at Erithmitic, PM at Workday, Analyst at Goldman Sachs.
+Previously: ML research at UC Berkeley's RISELab (3 papers — ICLR '21, ICLR '22, AISTATS '24), Senior ML Engineer at Erithmitic, PM at Workday, Analyst at Goldman Sachs.
 
 MEng CS, UC Berkeley. BS Finance Summa Cum Laude, Penn State.
 
